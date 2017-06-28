@@ -1,2 +1,3 @@
-# centos-base
-centos-openshift-base
+# CENTOS BASE
+
+CENTOS docker image.
